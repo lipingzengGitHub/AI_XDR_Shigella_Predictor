@@ -23,12 +23,15 @@ pip install -r requirements.txt
 
 Use `test_data_generator.py` to generate mock test data, or prepare your own data:
 
+```bash
 python test_data_generator.py
+```
 
 ### Step 2: Run the predictor
 
+```bash
 python XDR_Shigella_AI_Predictor.py
-
+```
 
 ### Output
 
