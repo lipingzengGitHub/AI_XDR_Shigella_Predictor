@@ -1,0 +1,8 @@
+outputs/
+models/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pth
+*.png
